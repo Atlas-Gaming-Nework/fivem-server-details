@@ -4,6 +4,10 @@ An Angular app which can pull details, such as hostname and IP, from a FiveM ser
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
 
+# View live version
+
+This project is hosted using GitHub pages and can be accessed [here](https://atlas-gaming-nework.github.io/fivem-server-details/).
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
