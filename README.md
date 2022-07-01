@@ -1,4 +1,6 @@
-# FivemServerDetails
+# FiveM server details
+
+An Angular app which can pull details, such as hostname and IP, from a FiveM server simply by using its connect code. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
 
