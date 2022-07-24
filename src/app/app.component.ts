@@ -16,6 +16,7 @@ export class AppComponent {
   loading = false;
   displayError = false;
   showJsonDiv = false;
+  
   error: HttpErrorResponse;
 
   constructor(private cfxLookupService: CfxlookupService) {}
